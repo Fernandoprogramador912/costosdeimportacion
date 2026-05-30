@@ -273,6 +273,17 @@ body {
   box-shadow: 0 0 0 3px rgba(59,130,246,.15);
 }
 
+.field-fixed input {
+  background: var(--color-surface-alt);
+  color: var(--color-text-secondary);
+  cursor: default;
+}
+
+.field-fixed input:focus {
+  box-shadow: none;
+  border-color: var(--color-border);
+}
+
 .input-wrap input.error {
   border-color: var(--color-red);
   background: #fff8f8;

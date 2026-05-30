@@ -21,7 +21,6 @@ const INITIAL_MAIN = {
   tipoContenedor: '40hq',
   flete: '',
   pctDerechos: '',
-  pctIIBB: '',
   precioVenta: '',
 }
 
@@ -129,7 +128,7 @@ export default function ImportForm({ onCalcular }) {
       volumenTotal: getVolumenTotal(),
       flete: Number(main.flete),
       pctDerechos: Number(main.pctDerechos) / 100,
-      pctIIBB: numOrDefault(main.pctIIBB, DEFAULTS.pctIIBB * 100) / 100,
+      pctIIBB: DEFAULTS.pctIIBB,
       precioVenta: Number(main.precioVenta),
       seguro: numOrDefault(adv.seguro, DEFAULTS.seguro),
       costoDespacho: numOrDefault(adv.costoDespacho, DEFAULTS.costoDespacho),
@@ -347,22 +346,6 @@ export default function ImportForm({ onCalcular }) {
                   <span className="suffix">%</span>
                 </div>
                 <span className="field-hint">Arancel de importación según posición arancelaria</span>
-              </div>
-              <div className="field">
-                <label>% IIBB</label>
-                <div className="input-wrap has-suffix">
-                  <input
-                    type="number"
-                    name="pctIIBB"
-                    value={main.pctIIBB}
-                    onChange={handleMain}
-                    min="0"
-                    max="100"
-                    step="0.01"
-                  />
-                  <span className="suffix">%</span>
-                </div>
-                <span className="field-hint">Valor habitual 2,74%. Podés modificarlo si corresponde otro alícuota</span>
               </div>
             </div>
           </div>

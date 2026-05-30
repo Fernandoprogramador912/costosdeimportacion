@@ -1,5 +1,11 @@
 import { useState } from 'react'
+import { DEFAULTS } from '../lib/calculator.js'
 import { formatFechaCotizacion } from '../lib/dolarApi.js'
+
+const PCT_IIBB = (DEFAULTS.pctIIBB * 100).toLocaleString('es-AR', {
+  minimumFractionDigits: 2,
+  maximumFractionDigits: 2,
+})
 
 export default function AdvancedSection({ adv, onChange, cotizacion }) {
   const [open, setOpen] = useState(false)
@@ -182,6 +188,20 @@ export default function AdvancedSection({ adv, onChange, cotizacion }) {
                 />
                 <span className="suffix">%</span>
               </div>
+            </div>
+            <div className="field">
+              <label>% IIBB</label>
+              <div className="input-wrap has-suffix field-fixed">
+                <input
+                  type="text"
+                  readOnly
+                  tabIndex={-1}
+                  value={PCT_IIBB}
+                  aria-readonly="true"
+                />
+                <span className="suffix">%</span>
+              </div>
+              <span className="field-hint">Alícuota fija del cálculo (2,74%)</span>
             </div>
           </div>
         </div>
