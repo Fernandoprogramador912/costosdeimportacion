@@ -16,8 +16,9 @@ Abre **http://localhost:5173** en el navegador.
 | Script | Descripción |
 |--------|-------------|
 | `npm run dev` | Levanta servidor local en `http://localhost:5173` |
-| `npm run build:productos` | Regenera el catálogo JSON y copia el Excel a `/public` |
-| `npm run build` | Genera productos + build de producción en `/dist` |
+| `npm run build:productos` | Regenera el catálogo JSON y copia el Excel a `/public` (solo local, requiere Python) |
+| `npm run build` | Build de producción en `/dist` (Vercel usa este) |
+| `npm run build:all` | Regenera productos + build (local, cuando actualizás el Excel) |
 | `npm run preview` | Previsualiza el build de producción localmente |
 | `npm test` | Corre los tests del motor de cálculo |
 | `npm run kill` | Libera el puerto 5173 si quedó ocupado |
