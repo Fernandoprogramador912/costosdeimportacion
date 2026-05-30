@@ -199,7 +199,7 @@ export default function ProductSelector({
             onChange={handleInputChange}
             onFocus={handleFocus}
             onKeyDown={handleKeyDown}
-            placeholder={cargando ? 'Cargando catálogo…' : 'Ej: PPRAL9003 o Pintura en Polvo…'}
+            placeholder={cargando ? 'Cargando catálogo…' : 'Buscar por código o descripción…'}
             disabled={cargando || !!error}
             autoComplete="off"
             role="combobox"

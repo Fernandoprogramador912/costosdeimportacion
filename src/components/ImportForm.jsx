@@ -21,19 +21,25 @@ const INITIAL_MAIN = {
   tipoContenedor: '40hq',
   flete: '',
   pctDerechos: '',
-  pctIIBB: DEFAULTS.pctIIBB * 100,
+  pctIIBB: '',
   precioVenta: '',
 }
 
 const INITIAL_ADVANCED = {
-  seguro: DEFAULTS.seguro,
-  costoDespacho: DEFAULTS.costoDespacho,
-  costoTerminal: DEFAULTS.costoTerminal,
-  costoAdicional: DEFAULTS.costoAdicional,
-  pctTE: DEFAULTS.pctTE * 100,
-  pctImpuestoPais: DEFAULTS.pctImpuestoPais * 100,
-  dolarOficial: DEFAULTS.dolarOficial,
-  dolarBlue: DEFAULTS.dolarBlue,
+  seguro: '',
+  costoDespacho: '',
+  costoTerminal: '',
+  costoAdicional: '',
+  pctTE: '',
+  pctImpuestoPais: '',
+  dolarOficial: '',
+  dolarBlue: '',
+}
+
+function numOrDefault(value, defaultValue) {
+  if (value === '' || value === null || value === undefined) return defaultValue
+  const n = Number(value)
+  return Number.isFinite(n) ? n : defaultValue
 }
 
 export default function ImportForm({ onCalcular }) {
@@ -123,16 +129,16 @@ export default function ImportForm({ onCalcular }) {
       volumenTotal: getVolumenTotal(),
       flete: Number(main.flete),
       pctDerechos: Number(main.pctDerechos) / 100,
-      pctIIBB: Number(main.pctIIBB) / 100,
+      pctIIBB: numOrDefault(main.pctIIBB, DEFAULTS.pctIIBB * 100) / 100,
       precioVenta: Number(main.precioVenta),
-      seguro: Number(adv.seguro),
-      costoDespacho: Number(adv.costoDespacho),
-      costoTerminal: Number(adv.costoTerminal),
-      costoAdicional: Number(adv.costoAdicional),
-      pctTE: Number(adv.pctTE) / 100,
-      pctImpuestoPais: Number(adv.pctImpuestoPais) / 100,
-      dolarOficial: Number(adv.dolarOficial),
-      dolarBlue: Number(adv.dolarBlue),
+      seguro: numOrDefault(adv.seguro, DEFAULTS.seguro),
+      costoDespacho: numOrDefault(adv.costoDespacho, DEFAULTS.costoDespacho),
+      costoTerminal: numOrDefault(adv.costoTerminal, DEFAULTS.costoTerminal),
+      costoAdicional: numOrDefault(adv.costoAdicional, DEFAULTS.costoAdicional),
+      pctTE: numOrDefault(adv.pctTE, DEFAULTS.pctTE * 100) / 100,
+      pctImpuestoPais: numOrDefault(adv.pctImpuestoPais, DEFAULTS.pctImpuestoPais * 100) / 100,
+      dolarOficial: numOrDefault(adv.dolarOficial, DEFAULTS.dolarOficial),
+      dolarBlue: numOrDefault(adv.dolarBlue, DEFAULTS.dolarBlue),
     })
   }
 
@@ -209,7 +215,6 @@ export default function ImportForm({ onCalcular }) {
                       name="precioFOBUnitario"
                       value={main.precioFOBUnitario}
                       onChange={handleMain}
-                      placeholder="0.00"
                       min="0"
                       step="0.01"
                       className={camposAuto.includes('precioFOBUnitario') ? 'input-auto-filled' : ''}
@@ -229,7 +234,6 @@ export default function ImportForm({ onCalcular }) {
                         name="precioFOBReal"
                         value={main.precioFOBReal}
                         onChange={handleMain}
-                        placeholder="0.00"
                         min="0"
                         step="0.01"
                         className={camposAuto.includes('precioFOBReal') ? 'input-auto-filled' : ''}
@@ -246,7 +250,6 @@ export default function ImportForm({ onCalcular }) {
                         name="precioFOBFacturado"
                         value={main.precioFOBFacturado}
                         onChange={handleMain}
-                        placeholder="0.00"
                         min="0"
                         step="0.01"
                       />
@@ -263,7 +266,6 @@ export default function ImportForm({ onCalcular }) {
                     name="unidadesPorCaja"
                     value={main.unidadesPorCaja}
                     onChange={handleMain}
-                    placeholder="100"
                     min="1"
                     step="1"
                     className={camposAuto.includes('unidadesPorCaja') ? 'input-auto-filled' : ''}
@@ -279,7 +281,6 @@ export default function ImportForm({ onCalcular }) {
                     name="volumenPorCaja"
                     value={main.volumenPorCaja}
                     onChange={handleMain}
-                    placeholder="0.02"
                     min="0"
                     step="0.001"
                     className={camposAuto.includes('volumenPorCaja') ? 'input-auto-filled' : ''}
@@ -324,7 +325,6 @@ export default function ImportForm({ onCalcular }) {
                     name="flete"
                     value={main.flete}
                     onChange={handleMain}
-                    placeholder="5000"
                     min="0"
                     step="1"
                   />
@@ -339,7 +339,6 @@ export default function ImportForm({ onCalcular }) {
                     name="pctDerechos"
                     value={main.pctDerechos}
                     onChange={handleMain}
-                    placeholder="20"
                     min="0"
                     max="100"
                     step="0.1"
@@ -381,7 +380,6 @@ export default function ImportForm({ onCalcular }) {
                     name="precioVenta"
                     value={main.precioVenta}
                     onChange={handleMain}
-                    placeholder="0.00"
                     min="0"
                     step="0.01"
                   />
