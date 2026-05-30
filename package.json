@@ -1,0 +1,24 @@
+{
+  "name": "calculadora-importacion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5173",
+    "build": "npm run build:productos && vite build",
+    "build:productos": "python scripts/generate-productos.py",
+    "preview": "vite preview --port 5173",
+    "test": "vitest run",
+    "kill": "npx kill-port 5173"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8",
+    "jsdom": "^25.0.1"
+  }
+}

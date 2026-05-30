@@ -1,0 +1,4727 @@
+[
+  {
+    "id": "row-2",
+    "codigo": "PPRAL9003",
+    "nombre": "Pintura en Polvo Negra",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.035,
+    "precioFOBUnitario": 2.07,
+    "pctDerechos": 12.6
+  },
+  {
+    "id": "row-3",
+    "codigo": "PPRAL9005",
+    "nombre": "Pintura en Polvo Blanca",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.035,
+    "precioFOBUnitario": 2.58,
+    "pctDerechos": 12.6
+  },
+  {
+    "id": "row-4",
+    "codigo": "T110-LL01",
+    "nombre": "PORTA LAMPARA CERAMICO MICO GU-10 CON CABLE 10CM",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.028,
+    "precioFOBUnitario": 0.08,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-5",
+    "codigo": "T110-LL01",
+    "nombre": "PORTA LAMPARA CERAMICO MICO GU-10 CON CABLE 20CM",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.029,
+    "precioFOBUnitario": 0.098,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-6",
+    "codigo": "T110-LL01",
+    "nombre": "PORTA LAMPARA CERAMICO MICO GU-10 CON CABLE 30CM",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.035,
+    "precioFOBUnitario": 0.116,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-7",
+    "codigo": "T110-LL01",
+    "nombre": "PORTA LAMPARA CERAMICO MICO GU-10 CON CABLE 30CM",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.03,
+    "precioFOBUnitario": 0.131,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-9",
+    "codigo": "T110-LL01",
+    "nombre": "ZOCALO G13 SIMPLE PAR",
+    "unidadesPorCaja": 3000.0,
+    "volumenPorCaja": 0.062,
+    "precioFOBUnitario": 0.084,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-13",
+    "codigo": "JM10-Black",
+    "nombre": "Movimientos",
+    "unidadesPorCaja": 1500.0,
+    "volumenPorCaja": 0.017,
+    "precioFOBUnitario": 0.35,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-14",
+    "codigo": "JM10-Black",
+    "nombre": "Movimientos",
+    "unidadesPorCaja": 250.0,
+    "volumenPorCaja": 0.05,
+    "precioFOBUnitario": 0.35,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-17",
+    "codigo": "SK500-12P",
+    "nombre": "Bornera",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.045,
+    "precioFOBUnitario": 0.328,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-18",
+    "codigo": "C100S",
+    "nombre": "Kit del line",
+    "unidadesPorCaja": 800.0,
+    "volumenPorCaja": 0.017,
+    "precioFOBUnitario": 0.546,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-19",
+    "codigo": "C10020Y",
+    "nombre": "Kit del line",
+    "unidadesPorCaja": 600.0,
+    "volumenPorCaja": 0.014,
+    "precioFOBUnitario": 0.779,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-20",
+    "codigo": "PE27-THREAD-BLACK-40CM",
+    "nombre": "CE lampholder VDE Cable 40CM enroscado negro cable negro",
+    "unidadesPorCaja": 200.0,
+    "volumenPorCaja": 0.048,
+    "precioFOBUnitario": 0.195,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-21",
+    "codigo": "PE27-THREAD-WHITE-40CM",
+    "nombre": "CE lampholder VDE Cable 40CM enroscado blanco cable blanco",
+    "unidadesPorCaja": 200.0,
+    "volumenPorCaja": 0.048,
+    "precioFOBUnitario": 0.21,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-22",
+    "codigo": "PE27-SMOOTH-BLACK-100CM",
+    "nombre": "CE lampholder VDE Cable - 100CM - liso negro cable negro",
+    "unidadesPorCaja": 200.0,
+    "volumenPorCaja": 0.0896,
+    "precioFOBUnitario": 0.27,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-23",
+    "codigo": "PE27-SMOOTH-WHITE-100CM",
+    "nombre": "CE lampholder VDE Cable - 100CM - liso blanco cable blanco",
+    "unidadesPorCaja": 200.0,
+    "volumenPorCaja": 0.0896,
+    "precioFOBUnitario": 0.285,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-25",
+    "codigo": "PORT002N",
+    "nombre": "Portalampara plastico Negro, rosca plastica",
+    "unidadesPorCaja": 400.0,
+    "volumenPorCaja": 0.057,
+    "precioFOBUnitario": 0.1,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-26",
+    "codigo": "PE27",
+    "nombre": "Portalampara ceramico solo",
+    "unidadesPorCaja": 400.0,
+    "volumenPorCaja": 0.04000000000000001,
+    "precioFOBUnitario": 0.123,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-27",
+    "codigo": "PORT005",
+    "nombre": "Portalampara ceramico solo",
+    "unidadesPorCaja": 400.0,
+    "volumenPorCaja": 0.04000000000000001,
+    "precioFOBUnitario": 0.063,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-28",
+    "codigo": "PORT014",
+    "nombre": "Portalamara ceramico con escuadra",
+    "unidadesPorCaja": 400.0,
+    "volumenPorCaja": 0.042,
+    "precioFOBUnitario": 0.067,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-29",
+    "codigo": "PORT003",
+    "nombre": "Portalampara ceramico puente",
+    "unidadesPorCaja": 400.0,
+    "volumenPorCaja": 0.042,
+    "precioFOBUnitario": 0.068,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-30",
+    "codigo": "PORT008",
+    "nombre": "Portalampara con casquillo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.05,
+    "precioFOBUnitario": 0.302,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-31",
+    "codigo": "PORT006",
+    "nombre": "Portalampara plastico con rosca",
+    "unidadesPorCaja": 500.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 0.121,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-32",
+    "codigo": "PORT002B",
+    "nombre": "Portalampara plastico Blanco",
+    "unidadesPorCaja": 500.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 0.1,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-33",
+    "codigo": "MDF-16-BV",
+    "nombre": "Portalampara vintage Bronce Viejo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.429,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-34",
+    "codigo": "MDF-16-BO",
+    "nombre": "Portalampara vintage Bronce Opaco",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.429,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-35",
+    "codigo": "MDF-02-BR",
+    "nombre": "Portalampara vintage Bronce Rojizo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.222,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-36",
+    "codigo": "MDF-02-BO",
+    "nombre": "Portalampara vintage Bronce Opaco",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.222,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-37",
+    "codigo": "MDF-12-BR",
+    "nombre": "Portalampara vintage Bronce Rojizo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.222,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-38",
+    "codigo": "MDF-12-BV",
+    "nombre": "Portalampara vintage Bronce Viejo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.222,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-39",
+    "codigo": "MDF-12-BO",
+    "nombre": "Portalampara vintage Bronce Opaco",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.222,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-40",
+    "codigo": "MDF-18-BR",
+    "nombre": "Portalampara vintage Bronce Rojizo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.317,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-41",
+    "codigo": "MDF-18-BV",
+    "nombre": "Portalampara vintage Bronce Viejo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.317,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-42",
+    "codigo": "MDF-18-BO",
+    "nombre": "Portalampara vintage Bronce Opaco",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.317,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-43",
+    "codigo": "MDF-11BV",
+    "nombre": "Portalampara vintage Bronce Viejo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.0,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-44",
+    "codigo": "MDF-11BO",
+    "nombre": "Portalampara vintage Bronce Opaco",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.0,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-45",
+    "codigo": "MDF-21-CO",
+    "nombre": "Portalampara vintage Cobre",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.429,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-46",
+    "codigo": "MDF-21-NE",
+    "nombre": "Portalampara vintage Negro",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.429,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-47",
+    "codigo": "MDF-01-BR",
+    "nombre": "Portalampara vintage Bronce Rojizo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.111,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-48",
+    "codigo": "MDF-01-BV",
+    "nombre": "Portalampara vintage Bronce Viejo",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.111,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-49",
+    "codigo": "MDF-01-BO",
+    "nombre": "Portalampara vintage Bronce Opaco",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 1.111,
+    "pctDerechos": 16.0
+  },
+  {
+    "id": "row-50",
+    "codigo": "ST14-F1W (No driver)",
+    "nombre": "Luz filamento 1W - ST14 - Transparente - plastico",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.025,
+    "precioFOBUnitario": 0.12,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-51",
+    "codigo": "G45-F4W",
+    "nombre": "Filmento 4W - G45 - Dorado - Vidrio",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.023,
+    "precioFOBUnitario": 0.33,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-52",
+    "codigo": "A60-F6W",
+    "nombre": "Filmento 6W -A60 - Dorado - Vidrio",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.051,
+    "precioFOBUnitario": 0.4,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-53",
+    "codigo": "ST64-F8W",
+    "nombre": "Filmento 6W -ST64 - Dorado - Vidrio",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.076,
+    "precioFOBUnitario": 0.49,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-54",
+    "codigo": "G80-F8W",
+    "nombre": "Filmento 6W - G80 - Dorado - Vidrio",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 0.63,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-55",
+    "codigo": "G95-F8W",
+    "nombre": "Filmento 6W - G95 - Dorado - Vidrio",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.07,
+    "precioFOBUnitario": 0.73,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-56",
+    "codigo": "G125-F8W",
+    "nombre": "Filmento 6W - G125 - Dorado - Vidrio",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.127,
+    "precioFOBUnitario": 0.98,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-57",
+    "codigo": "ANTC35",
+    "nombre": "Luz vintage carbono C35 vela - E14 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.015,
+    "precioFOBUnitario": 0.36,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-58",
+    "codigo": "ANTC35CV",
+    "nombre": "Luz vintage carbono C35 viento - E14 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.019,
+    "precioFOBUnitario": 0.36,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-59",
+    "codigo": "Æ",
+    "nombre": "Luz vintage pera carbono ST64- E27 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.07,
+    "precioFOBUnitario": 0.43,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-60",
+    "codigo": "ANTT30",
+    "nombre": "Luz vintage carbono T30 tubo - E27 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 200.0,
+    "volumenPorCaja": 0.041,
+    "precioFOBUnitario": 0.51,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-61",
+    "codigo": "ANTLAN",
+    "nombre": "Luz vintage carbono LANTERN - E27 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.045,
+    "precioFOBUnitario": 0.64,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-62",
+    "codigo": "ANTT45",
+    "nombre": "Luz vintage carbono T45 chop - E27 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.028,
+    "precioFOBUnitario": 0.5,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-63",
+    "codigo": "ANTA60",
+    "nombre": "Luz vintage carbono A60 bulbo - E27 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.043,
+    "precioFOBUnitario": 0.46,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-64",
+    "codigo": "ANTG80",
+    "nombre": "Luz vintage carbono G80 globo - E27 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.045,
+    "precioFOBUnitario": 0.5,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-65",
+    "codigo": "ANTG95",
+    "nombre": "Luz vintage carbono G95 globo - E27 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.029,
+    "precioFOBUnitario": 0.64,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-66",
+    "codigo": "ANTG125",
+    "nombre": "Luz vintage carbono G125 globo - E27 - 24W - Dimerizable - 3000K",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.065,
+    "precioFOBUnitario": 0.86,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-67",
+    "codigo": "G45-F4DIMM",
+    "nombre": "Lampara led Gota - 4W - E27 - Ambar",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.019,
+    "precioFOBUnitario": 0.36,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-69",
+    "codigo": "0073FSPL",
+    "nombre": "Lampara incandescente G45 - 15W - E27 - Clara",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.018,
+    "precioFOBUnitario": 0.08,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-70",
+    "codigo": "0072FSPL",
+    "nombre": "Lampara incandescente G45 - 24W - E27 - Clara",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.018,
+    "precioFOBUnitario": 0.08,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-71",
+    "codigo": "069FSPL",
+    "nombre": "Lampara incandescente G45 - 24W - E27 - Opal",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.018,
+    "precioFOBUnitario": 0.09,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-72",
+    "codigo": "20105SPL",
+    "nombre": "Perfume Lampara incandescente 15W - E14 - 3000K",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.053,
+    "precioFOBUnitario": 0.088,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-73",
+    "codigo": "20106SPL",
+    "nombre": "Perfume Lampara incandescente 24W - E14 - 3000K",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.053,
+    "precioFOBUnitario": 0.088,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-74",
+    "codigo": "20107SPL",
+    "nombre": "Perfume Lampara incandescente 24W - E14 - OPAL",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.053,
+    "precioFOBUnitario": 0.095,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-75",
+    "codigo": "20105LED",
+    "nombre": "Lampara led 1.8W - E14 - 3000K",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.053,
+    "precioFOBUnitario": 0.34,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-76",
+    "codigo": "20105LEDF",
+    "nombre": "Lampara led 1.8W - E14 - 6000K",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.053,
+    "precioFOBUnitario": 0.34,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-77",
+    "codigo": "20213",
+    "nombre": "Lampara incandescente Baby luz 15W - E14 - 3000K",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.044,
+    "precioFOBUnitario": 0.084,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-78",
+    "codigo": "20212",
+    "nombre": "Lampara incandescente Baby luz 5W - E14 - 3000K",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.044,
+    "precioFOBUnitario": 0.084,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-79",
+    "codigo": "20212LED",
+    "nombre": "Lampara led Baby luz 1.5W - E14 - 3000K",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.044,
+    "precioFOBUnitario": 0.32,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-80",
+    "codigo": "GU10-7W-PL-38 DIM",
+    "nombre": "Plastic + Aluminium white body - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 0.67,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-81",
+    "codigo": "GU10-7W-PL-38",
+    "nombre": "Plastic + Aluminium white body - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 0.25,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-82",
+    "codigo": "GU10-7W-PL-38",
+    "nombre": "Plastic + Aluminium white body - 6000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.02,
+    "precioFOBUnitario": 0.25,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-83",
+    "codigo": "AR111-E15W-PL_SMD-GU10",
+    "nombre": "Aluminium sheet white body - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.094,
+    "precioFOBUnitario": 1.4,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-84",
+    "codigo": "AR111-E15W-PL_SMD-GU10",
+    "nombre": "Aluminium sheet white body - 6500K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.094,
+    "precioFOBUnitario": 1.4,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-85",
+    "codigo": "AR111-E15W-PL_SMD-GU10",
+    "nombre": "Aluminium sheet white body - NUEVO MODELO - 3000K - DIM - 15W (Real 12W)",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.094,
+    "precioFOBUnitario": 1.3,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-86",
+    "codigo": "AR111-E12W-PL_SMD-GU10",
+    "nombre": "Aluminium sheet white body - NUEVO MODELO - 3000K - DIM - 12W",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.094,
+    "precioFOBUnitario": 1.1,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-87",
+    "codigo": "AR111-E15W-PL_SMD-GU10",
+    "nombre": "Aluminium sheet white body - NUEVO MODELO - 3000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.094,
+    "precioFOBUnitario": 0.9,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-88",
+    "codigo": "AR111-E15W-PL_SMD-GU10",
+    "nombre": "Aluminium sheet white body - NUEVO MODELO - 6000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.094,
+    "precioFOBUnitario": 0.9,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-89",
+    "codigo": "LG172L-10W2",
+    "nombre": "Reflector Led 10W fria",
+    "unidadesPorCaja": 120.0,
+    "volumenPorCaja": 0.035,
+    "precioFOBUnitario": 0.7,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-90",
+    "codigo": "LG172L-10W2",
+    "nombre": "Reflector Led 10W calida",
+    "unidadesPorCaja": 120.0,
+    "volumenPorCaja": 0.035,
+    "precioFOBUnitario": 0.7,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-91",
+    "codigo": "LG172L-20W2",
+    "nombre": "Reflector Led 20W fria",
+    "unidadesPorCaja": 120.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 0.98,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-92",
+    "codigo": "LG172L-20W2",
+    "nombre": "Reflector Led 20W calida",
+    "unidadesPorCaja": 120.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 0.98,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-93",
+    "codigo": "LG172L-30W2",
+    "nombre": "Reflector Led 30W fria 75% menor calidad",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.045,
+    "precioFOBUnitario": 0.96,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-94",
+    "codigo": "LG172L-30W2",
+    "nombre": "Reflector Led 30W fria 90% menor calidad",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.045,
+    "precioFOBUnitario": 1.03,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-95",
+    "codigo": "LG172L-30W2",
+    "nombre": "Reflector Led 30W fria 75%",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.045,
+    "precioFOBUnitario": 1.26,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-96",
+    "codigo": "LG172L-30W2",
+    "nombre": "Reflector Led 30W fria 90%",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.045,
+    "precioFOBUnitario": 1.54,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-97",
+    "codigo": "LG172L-30W2",
+    "nombre": "Reflector Led 30W calida",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.045,
+    "precioFOBUnitario": 1.26,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-98",
+    "codigo": "LG172L-50W2",
+    "nombre": "Reflector Led 50W fria 75% menor calidad",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.031,
+    "precioFOBUnitario": 1.2,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-99",
+    "codigo": "LG172L-50W2",
+    "nombre": "Reflector Led 50W fria 90% menor calidad",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.031,
+    "precioFOBUnitario": 1.54,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-100",
+    "codigo": "LG172L-50W2",
+    "nombre": "Reflector Led 50W fria 75%",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.031,
+    "precioFOBUnitario": 1.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-101",
+    "codigo": "LG172L-50W2",
+    "nombre": "Reflector Led 50W fria 90%",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.031,
+    "precioFOBUnitario": 1.98,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-102",
+    "codigo": "LG172L-50W2",
+    "nombre": "Reflector Led 50W cailda",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.031,
+    "precioFOBUnitario": 1.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-103",
+    "codigo": "LG172L-70W2",
+    "nombre": "Reflector Led 70W fria",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.039,
+    "precioFOBUnitario": 2.04,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-104",
+    "codigo": "LG172L-70W2",
+    "nombre": "Reflector Led 70W calida",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.039,
+    "precioFOBUnitario": 2.04,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-105",
+    "codigo": "LG172L-100W2",
+    "nombre": "Reflector Led 100W fria",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.032,
+    "precioFOBUnitario": 3.23,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-106",
+    "codigo": "LG172L-100W2",
+    "nombre": "Reflector Led 100W calida",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.032,
+    "precioFOBUnitario": 3.23,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-107",
+    "codigo": "LG172L-150W2",
+    "nombre": "Reflector Led 150W fria",
+    "unidadesPorCaja": 14.0,
+    "volumenPorCaja": 0.03,
+    "precioFOBUnitario": 4.88,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-108",
+    "codigo": "LG172L-150W2",
+    "nombre": "Reflector Led 150W calida",
+    "unidadesPorCaja": 14.0,
+    "volumenPorCaja": 0.03,
+    "precioFOBUnitario": 4.88,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-109",
+    "codigo": "LG172L-200W2",
+    "nombre": "Reflector Led 200W fria 75% menos calidad",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029,
+    "precioFOBUnitario": 4.3,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-110",
+    "codigo": "LG172L-200W2",
+    "nombre": "Reflector Led 200W fria 90% menos calidad",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029,
+    "precioFOBUnitario": 5.07,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-111",
+    "codigo": "LG172L-200W2",
+    "nombre": "Reflector Led 200W fria 75%",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029,
+    "precioFOBUnitario": 5.98,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-112",
+    "codigo": "LG172L-200W2",
+    "nombre": "Reflector Led 200W fria 90%",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029,
+    "precioFOBUnitario": 8.78,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-113",
+    "codigo": "LG172L-200W2",
+    "nombre": "Reflector Led 200W calida",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029,
+    "precioFOBUnitario": 5.98,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-114",
+    "codigo": "DR-24W",
+    "nombre": "Driver / Fuente 24W",
+    "unidadesPorCaja": 200.0,
+    "volumenPorCaja": 0.0520905,
+    "precioFOBUnitario": 1.25,
+    "pctDerechos": 2.0
+  },
+  {
+    "id": "row-115",
+    "codigo": "DR-36W",
+    "nombre": "Driver / Fuente 36W",
+    "unidadesPorCaja": 200.0,
+    "volumenPorCaja": 0.0520905,
+    "precioFOBUnitario": 1.37,
+    "pctDerechos": 2.0
+  },
+  {
+    "id": "row-116",
+    "codigo": "DR-60W",
+    "nombre": "Driver / Fuente 60W",
+    "unidadesPorCaja": 200.0,
+    "volumenPorCaja": 0.005141397429301285,
+    "precioFOBUnitario": 1.59,
+    "pctDerechos": 2.0
+  },
+  {
+    "id": "row-117",
+    "codigo": "DR-120W",
+    "nombre": "Driver / Fuente 120W",
+    "unidadesPorCaja": 75.0,
+    "volumenPorCaja": 0.058751,
+    "precioFOBUnitario": 2.55,
+    "pctDerechos": 2.0
+  },
+  {
+    "id": "row-118",
+    "codigo": "DR-250W",
+    "nombre": "Driver / Fuente 250W",
+    "unidadesPorCaja": 36.0,
+    "volumenPorCaja": 0.057681,
+    "precioFOBUnitario": 4.25,
+    "pctDerechos": 2.0
+  },
+  {
+    "id": "row-119",
+    "codigo": "DR-350W",
+    "nombre": "Driver / Fuente 350W",
+    "unidadesPorCaja": 36.0,
+    "volumenPorCaja": 0.05865,
+    "precioFOBUnitario": 5.42,
+    "pctDerechos": 2.0
+  },
+  {
+    "id": "row-120",
+    "codigo": "LT-96230",
+    "nombre": "Luz emergencia 30 leds",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.013,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-121",
+    "codigo": "LT-96260",
+    "nombre": "Luz emergencia 60 leds",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.028,
+    "precioFOBUnitario": 2.62,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-122",
+    "codigo": "LT-96290",
+    "nombre": "Luz emergencia 90 leds",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.016,
+    "precioFOBUnitario": 4.31,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-123",
+    "codigo": "LLB675C-6500K",
+    "nombre": "Luz galponera 75W",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.14,
+    "precioFOBUnitario": 1.94,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-124",
+    "codigo": "LLB6100C-6500K",
+    "nombre": "Luz galponera 100W",
+    "unidadesPorCaja": 24.0,
+    "volumenPorCaja": 0.17,
+    "precioFOBUnitario": 2.7,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-125",
+    "codigo": "SM-HBFL31-200-6500K",
+    "nombre": "Reflector led",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.025,
+    "precioFOBUnitario": 39.55,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-126",
+    "codigo": "SM-HBFL31-300-6500K",
+    "nombre": "Reflector led",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.03,
+    "precioFOBUnitario": 63.88,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-127",
+    "codigo": "HL132- 100W",
+    "nombre": "UFO 100W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.023,
+    "precioFOBUnitario": 7.08,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-128",
+    "codigo": "HL132- 150W",
+    "nombre": "UFO 150W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029,
+    "precioFOBUnitario": 9.85,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-129",
+    "codigo": "HL132- 200W",
+    "nombre": "UFO 200W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.044,
+    "precioFOBUnitario": 13.16,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-130",
+    "codigo": "UFO BRACKETS",
+    "nombre": "BRACKETS",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.044,
+    "precioFOBUnitario": 1.2,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-131",
+    "codigo": "RL-B217-100W-DOB",
+    "nombre": "Luminaria de Alumbrado 100W",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.0728625,
+    "precioFOBUnitario": 7.42,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-132",
+    "codigo": "RL-B217-150W-DOB",
+    "nombre": "Luminaria de Alumbrado 150W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.068085,
+    "precioFOBUnitario": 10.49,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-133",
+    "codigo": "RL-B217-200W-DOB",
+    "nombre": "Luminaria de Alumbrado 200W",
+    "unidadesPorCaja": 4.0,
+    "volumenPorCaja": 0.058625,
+    "precioFOBUnitario": 14.48,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-134",
+    "codigo": "RL-B217-100W-NID",
+    "nombre": "Luminaria de Alumbrado 100W",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.0728625,
+    "precioFOBUnitario": 8.73,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-135",
+    "codigo": "RL-B217-150W-NID",
+    "nombre": "Luminaria de Alumbrado 150W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.068085,
+    "precioFOBUnitario": 12.38,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-136",
+    "codigo": "RL-B217-200W-NID",
+    "nombre": "Luminaria de Alumbrado 200W",
+    "unidadesPorCaja": 4.0,
+    "volumenPorCaja": 0.058625,
+    "precioFOBUnitario": 17.13,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-137",
+    "codigo": "DEA0331-1",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.040774,
+    "precioFOBUnitario": 3.54,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-138",
+    "codigo": "DEA0331-2",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.04347,
+    "precioFOBUnitario": 2.38,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-139",
+    "codigo": "DEA0331-3",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.0336,
+    "precioFOBUnitario": 2.23,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-140",
+    "codigo": "DEA0331-4",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.04025,
+    "precioFOBUnitario": 2.31,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-141",
+    "codigo": "DEA0331-5",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.040799999999999996,
+    "precioFOBUnitario": 3.69,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-142",
+    "codigo": "DEA0331-6",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.052,
+    "precioFOBUnitario": 3.46,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-143",
+    "codigo": "DEA0331-7",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.052,
+    "precioFOBUnitario": 3.77,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-144",
+    "codigo": "DEA0331-8",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.052,
+    "precioFOBUnitario": 3.23,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-145",
+    "codigo": "DEA0331-9",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.052,
+    "precioFOBUnitario": 3.54,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-146",
+    "codigo": "DEA0331-10",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.052,
+    "precioFOBUnitario": 3.72,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-147",
+    "codigo": "DEA0331-11",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.052,
+    "precioFOBUnitario": 3.54,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-148",
+    "codigo": "DEA0331-12",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.06269999999999999,
+    "precioFOBUnitario": 3.38,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-149",
+    "codigo": "DEA0331-13",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.047068,
+    "precioFOBUnitario": 4.31,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-150",
+    "codigo": "DEA0331-14",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.050699999999999995,
+    "precioFOBUnitario": 3.85,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-151",
+    "codigo": "DEA0331-15",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.064158,
+    "precioFOBUnitario": 3.54,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-152",
+    "codigo": "DEA0331-16",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.064158,
+    "precioFOBUnitario": 4.08,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-153",
+    "codigo": "DEA0331-17",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.052,
+    "precioFOBUnitario": 3.69,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-154",
+    "codigo": "DEA0331-18",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.04092,
+    "precioFOBUnitario": 5.97,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-155",
+    "codigo": "DEA0331-19",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.053130000000000004,
+    "precioFOBUnitario": 4.0,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-156",
+    "codigo": "DEA0331-20",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.061248,
+    "precioFOBUnitario": 2.43,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-157",
+    "codigo": "DEA0331-21",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.0385,
+    "precioFOBUnitario": 2.31,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-158",
+    "codigo": "DEA0331-22",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.0336,
+    "precioFOBUnitario": 2.34,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-159",
+    "codigo": "DEA0331-23",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.04092,
+    "precioFOBUnitario": 5.23,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-160",
+    "codigo": "DEA0331-24",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029303999999999997,
+    "precioFOBUnitario": 4.77,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-161",
+    "codigo": "DEA0331-25",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.03856999999999999,
+    "precioFOBUnitario": 3.54,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-162",
+    "codigo": "DEA0331-26",
+    "nombre": "Velador recargable",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.0765,
+    "precioFOBUnitario": 4.92,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-163",
+    "codigo": "W2101C",
+    "nombre": "Aplique Exterior Solar W2101 - 3500K",
+    "unidadesPorCaja": 90.0,
+    "volumenPorCaja": 0.108979,
+    "precioFOBUnitario": 2.31,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-164",
+    "codigo": "W2108C",
+    "nombre": "Aplique Exterior Solar W2108 - 3500K",
+    "unidadesPorCaja": 192.0,
+    "volumenPorCaja": 0.041085,
+    "precioFOBUnitario": 1.42,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-165",
+    "codigo": "W2108F",
+    "nombre": "Aplique Exterior Solar W2108 - 6000K",
+    "unidadesPorCaja": 192.0,
+    "volumenPorCaja": 0.041085,
+    "precioFOBUnitario": 1.42,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-166",
+    "codigo": "W2110-RGB",
+    "nombre": "Aplique Exterior Solar W2110 - RGB",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.0639285,
+    "precioFOBUnitario": 3.9,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-167",
+    "codigo": "S320C",
+    "nombre": "Estaca Exterior Solar S320 - 3500K",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.07940625,
+    "precioFOBUnitario": 3.19,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-168",
+    "codigo": "S320F",
+    "nombre": "Estaca Exterior Solar S320 - 6000K",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.07940625,
+    "precioFOBUnitario": 3.19,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-169",
+    "codigo": "S327F",
+    "nombre": "Reflector Led Solar Exterior S327 - 6000K",
+    "unidadesPorCaja": 36.0,
+    "volumenPorCaja": 0.0901225,
+    "precioFOBUnitario": 3.19,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-170",
+    "codigo": "S335F",
+    "nombre": "Estaca de piso solar S335 - 6000K",
+    "unidadesPorCaja": 108.0,
+    "volumenPorCaja": 0.05765625,
+    "precioFOBUnitario": 1.15,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-171",
+    "codigo": "S336C",
+    "nombre": "Aplique Exterior Solar S336 - 3500K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.08990125,
+    "precioFOBUnitario": 1.86,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-172",
+    "codigo": "S336F",
+    "nombre": "Aplique Exterior Solar S336 - 6000K",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.08990125,
+    "precioFOBUnitario": 1.86,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-173",
+    "codigo": "S338C",
+    "nombre": "Aplique Exterior Solar S338 - 3500K",
+    "unidadesPorCaja": 80.0,
+    "volumenPorCaja": 0.135864,
+    "precioFOBUnitario": 1.28,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-174",
+    "codigo": "S338F",
+    "nombre": "Aplique Exterior Solar S338 - 6000K",
+    "unidadesPorCaja": 80.0,
+    "volumenPorCaja": 0.135864,
+    "precioFOBUnitario": 1.28,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-177",
+    "codigo": "S337C",
+    "nombre": "Estaca Exterior Solar S337 - 3500K",
+    "unidadesPorCaja": 300.0,
+    "volumenPorCaja": 0.10395,
+    "precioFOBUnitario": 0.43,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-178",
+    "codigo": "S337F",
+    "nombre": "Estaca Exterior Solar S337 - 6000K",
+    "unidadesPorCaja": 300.0,
+    "volumenPorCaja": 0.10395,
+    "precioFOBUnitario": 0.43,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-179",
+    "codigo": "SU-LED-T8-9",
+    "nombre": "Tubo led 9W - 6500k",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.02015625,
+    "precioFOBUnitario": 0.42,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-180",
+    "codigo": "SU-LED-T8-18",
+    "nombre": "Tubo led 18W - 6500k",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 0.45,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-181",
+    "codigo": "SU-LED-T8-45",
+    "nombre": "Tubo led 45W - 6500k",
+    "unidadesPorCaja": 25.0,
+    "volumenPorCaja": 0.10617750000000001,
+    "precioFOBUnitario": 2.62,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-182",
+    "codigo": "WL101",
+    "nombre": "APLIQUE EXTERIOR ALUMINIO UNIDIRECCIONAL - GU10",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.062,
+    "precioFOBUnitario": 3.36,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-183",
+    "codigo": "WL102",
+    "nombre": "APLIQUE EXTERIOR ALUMINIO BIDIRECCIONAL - GU10",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.060192,
+    "precioFOBUnitario": 4.67,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-184",
+    "codigo": "WL103",
+    "nombre": "APLIQUE EXTERIOR ALUMINIO UNIDIRECCIONAL - GU10",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.067,
+    "precioFOBUnitario": 4.09,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-185",
+    "codigo": "WL104",
+    "nombre": "APLIQUE EXTERIOR ALUMINIO BIDIRECCIONAL - GU10",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.076494,
+    "precioFOBUnitario": 5.56,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-186",
+    "codigo": "GL102-1",
+    "nombre": "LUMINARIA DE PISO EXTERIOR ALUMINIO",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.084568,
+    "precioFOBUnitario": 3.88,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-187",
+    "codigo": "GL102-2",
+    "nombre": "LUMINARIA DE PISO EXTERIOR ALUMINIO",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.085,
+    "precioFOBUnitario": 5.34,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-188",
+    "codigo": "GL102-3",
+    "nombre": "LUMINARIA DE PISO EXTERIOR ALUMINIO",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.07848,
+    "precioFOBUnitario": 6.51,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-189",
+    "codigo": "GL102-4",
+    "nombre": "LUMINARIA DE PISO EXTERIOR ALUMINIO",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.038512,
+    "precioFOBUnitario": 7.28,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-190",
+    "codigo": "GL103-1",
+    "nombre": "FAROLA 3036/20 Stainless steel E27 MAX40W IP44/IP65",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.095865,
+    "precioFOBUnitario": 6.92,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-191",
+    "codigo": "GL103-2",
+    "nombre": "FAROLA 3036/40 E27 Stainless steel E27 MAX40W IP44 /IP65",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.095865,
+    "precioFOBUnitario": 8.34,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-192",
+    "codigo": "3036/80",
+    "nombre": "FAROLA 3036/80 Stainless steel E27 MAX40W IP44 /IP65",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.095284,
+    "precioFOBUnitario": 9.76,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-193",
+    "codigo": "EXT118050N-300",
+    "nombre": "FAROLA 8055-300 Stainless steel E27 MAX40W IP44 /IP65",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.055575,
+    "precioFOBUnitario": 3.71,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-194",
+    "codigo": "EXT118050N-400",
+    "nombre": "FAROLA 8055-400 Stainless steel E27 MAX40W IP44 /IP65",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.072675,
+    "precioFOBUnitario": 4.47,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-195",
+    "codigo": "EXT118050/N-500",
+    "nombre": "FAROLA 8055-500 Stainless steel E27 MAX40W IP44 /IP65",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.089775,
+    "precioFOBUnitario": 4.82,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-196",
+    "codigo": "EXT118056N-650",
+    "nombre": "FAROLA 8056-650 Stainless steel E27 MAX40W IP44 /IP65",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.115425,
+    "precioFOBUnitario": 5.85,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-197",
+    "codigo": "EXT118056/N-800",
+    "nombre": "FAROLA 8056-800 Stainless steel E27 MAX40W IP44 /IP65",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.072765,
+    "precioFOBUnitario": 7.02,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-198",
+    "codigo": "EXT118056/N-1100",
+    "nombre": "FAROLA 8056-1100 Stainless steel E27 MAX40W IP44 /IP65",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.098784,
+    "precioFOBUnitario": 8.79,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-203",
+    "codigo": "WL109",
+    "nombre": "APLIQUE EXTERIOR UNIDIRECCIONAL ABS+VIDRIO+ALUM - GU10",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.027,
+    "precioFOBUnitario": 2.69,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-204",
+    "codigo": "WL110",
+    "nombre": "APLIQUE EXTERIOR UNIDIRECCIONAL ABS+VIDRIO+ALUM - GU10",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.027,
+    "precioFOBUnitario": 2.77,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-205",
+    "codigo": "WL111",
+    "nombre": "APLIQUE EXTERIOR BIDIRECCIONAL ABS+VIDRIO+ALUM - GU10",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 3.55,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-206",
+    "codigo": "WL112",
+    "nombre": "APLIQUE EXTERIOR BIDIRECCIONAL ABS+VIDRIO+ALUM - GU10",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 3.73,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-207",
+    "codigo": "WN001",
+    "nombre": "APLIQUE 59/01 GLASS+ ALUM - GU10. Size: 285*100*76mm,",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.04332,
+    "precioFOBUnitario": 5.64,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-208",
+    "codigo": "WN002",
+    "nombre": "APLIQUE 59/02 GLASS+ ALUM - GU10 Size: 285*100*76mm,",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.048,
+    "precioFOBUnitario": 6.45,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-209",
+    "codigo": "WN003",
+    "nombre": "APLIQUE 60/01 GLASS+ ALUM Size: 225*100*76mm",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.05130000000000001,
+    "precioFOBUnitario": 4.51,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-210",
+    "codigo": "WN004",
+    "nombre": "APLIQUE 60/02 GLASS+ ALUM 2*D Size: 240*100*76mm",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.05472,
+    "precioFOBUnitario": 6.29,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-211",
+    "codigo": "50003",
+    "nombre": "BLIND - APLIQUE BIDIRECCIONAL ALUM,2*GU10",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.047025,
+    "precioFOBUnitario": 3.83,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-212",
+    "codigo": "50004",
+    "nombre": "UNIBLIND - APLIQUE UNIDIRECCIONAL ALUM",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.047025,
+    "precioFOBUnitario": 3.59,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-213",
+    "codigo": "EXT118058/01",
+    "nombre": "APLIQUE 58/01 ALUM",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.03225,
+    "precioFOBUnitario": 4.51,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-214",
+    "codigo": "EXT118058/02",
+    "nombre": "APLIQUE 58/02 ALUM",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.04875,
+    "precioFOBUnitario": 5.64,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-215",
+    "codigo": "EXT118061/01N",
+    "nombre": "APLIQUE 61/01 ALUM",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.04047,
+    "precioFOBUnitario": 3.54,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-216",
+    "codigo": "EXT118061/02N",
+    "nombre": "APLIQUE 61/02 ALUM",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.058425,
+    "precioFOBUnitario": 4.11,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-217",
+    "codigo": "EXT118063/01N",
+    "nombre": "APLIQUE 8063/01 ALUM",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.04381875,
+    "precioFOBUnitario": 4.0,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-218",
+    "codigo": "EXT118064/02N",
+    "nombre": "APLIQUE 8064/02 ALUM",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.058425,
+    "precioFOBUnitario": 4.11,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-219",
+    "codigo": "WN015",
+    "nombre": "Farola Acero inoxidable 30cm",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.03648,
+    "precioFOBUnitario": 6.12,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-220",
+    "codigo": "WN016",
+    "nombre": "Farola Acero inoxidable 50cm",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.03648,
+    "precioFOBUnitario": 9.51,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-221",
+    "codigo": "LG172L-10W2",
+    "nombre": "Reflector Autoencendido 10W",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.0662625,
+    "precioFOBUnitario": 2.87,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-222",
+    "codigo": "LG172L-20W2",
+    "nombre": "Reflector Autoencendido 20W",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.0662625,
+    "precioFOBUnitario": 2.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-223",
+    "codigo": "LG172L-30W2",
+    "nombre": "Reflector Autoencendido 30W",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.07127125,
+    "precioFOBUnitario": 3.2,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-224",
+    "codigo": "LG172L-50W2",
+    "nombre": "Reflector Autoencendido 50W",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.059409,
+    "precioFOBUnitario": 3.6,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-225",
+    "codigo": "LG146RGB-10W",
+    "nombre": "Reflector Led RGB 10W",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.01825425,
+    "precioFOBUnitario": 3.58,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-226",
+    "codigo": "LG146RGB-20W",
+    "nombre": "Reflector Led RGB 20W",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.014949375,
+    "precioFOBUnitario": 4.62,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-227",
+    "codigo": "LG146RGB-30W",
+    "nombre": "Reflector Led RGB 30W",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.020746,
+    "precioFOBUnitario": 5.94,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-228",
+    "codigo": "LG146RGB-50W",
+    "nombre": "Reflector Led RGB 50W",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.01836,
+    "precioFOBUnitario": 7.18,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-229",
+    "codigo": "LG146RGB-100W",
+    "nombre": "Reflector Led RGB 100W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.01587,
+    "precioFOBUnitario": 13.06,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-230",
+    "codigo": "HL134- 100W",
+    "nombre": "UFO 100W",
+    "unidadesPorCaja": 16.0,
+    "volumenPorCaja": 0.047922,
+    "precioFOBUnitario": 5.7,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-231",
+    "codigo": "HL134- 150W",
+    "nombre": "UFO 150W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.03619,
+    "precioFOBUnitario": 7.3,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-232",
+    "codigo": "HL134- 200W",
+    "nombre": "UFO 200W",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.03661875,
+    "precioFOBUnitario": 9.65,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-233",
+    "codigo": "KHB-100-CW",
+    "nombre": "UFO 100W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029435,
+    "precioFOBUnitario": 7.52,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-234",
+    "codigo": "KHB-150-CW",
+    "nombre": "UFO 150W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.038115,
+    "precioFOBUnitario": 10.3,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-235",
+    "codigo": "KHB-200-CW",
+    "nombre": "UFO 200W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.056,
+    "precioFOBUnitario": 13.77,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-236",
+    "codigo": "EHB-100W",
+    "nombre": "UFO 100W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.029435,
+    "precioFOBUnitario": 5.32051282051282,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-237",
+    "codigo": "EHB-150W",
+    "nombre": "UFO 150W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.038115,
+    "precioFOBUnitario": 7.16666666666667,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-238",
+    "codigo": "EHB-200W",
+    "nombre": "UFO 200W",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.056,
+    "precioFOBUnitario": 9.61538461538461,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-239",
+    "codigo": "AX-ST-FH-50W",
+    "nombre": "Luminaria de Alumbrado 50W",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.104575,
+    "precioFOBUnitario": 5.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-240",
+    "codigo": "AX-ST-FH-100W（样品）",
+    "nombre": "Luminaria de Alumbrado 100W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.066583125,
+    "precioFOBUnitario": 6.99,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-241",
+    "codigo": "AX-ST-FH-150W",
+    "nombre": "Luminaria de Alumbrado 150W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.09320525,
+    "precioFOBUnitario": 9.89,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-242",
+    "codigo": "AX-ST-FH-200W",
+    "nombre": "Luminaria de Alumbrado 200W",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.0699985,
+    "precioFOBUnitario": 13.99,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-243",
+    "codigo": "RL163C-30W2",
+    "nombre": "LUMINARIA ALUMBRADO 30W",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.03899999999999999,
+    "precioFOBUnitario": 3.82,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-244",
+    "codigo": "RL163C-50W2",
+    "nombre": "LUMINARIA ALUMBRADO 50W",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.049139999999999996,
+    "precioFOBUnitario": 5.19,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-245",
+    "codigo": "RL163C-75W2",
+    "nombre": "LUMINARIA ALUMBRADO 75W",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.049139999999999996,
+    "precioFOBUnitario": 7.4,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-246",
+    "codigo": "RL163C-100W2",
+    "nombre": "LUMINARIA ALUMBRADO 100W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.0468,
+    "precioFOBUnitario": 7.9,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-247",
+    "codigo": "RL163C-120W2",
+    "nombre": "LUMINARIA ALUMBRADO 120W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.0468,
+    "precioFOBUnitario": 9.43,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-248",
+    "codigo": "RL163C-150W2",
+    "nombre": "LUMINARIA ALUMBRADO 150W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.052000000000000005,
+    "precioFOBUnitario": 11.2,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-249",
+    "codigo": "RL163C-200W2",
+    "nombre": "LUMINARIA ALUMBRADO 200W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.08249999999999999,
+    "precioFOBUnitario": 14.2,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-250",
+    "codigo": "SSPK-110-1",
+    "nombre": "Farol solar de piso",
+    "unidadesPorCaja": 24.0,
+    "volumenPorCaja": 0.075705,
+    "precioFOBUnitario": 4.6,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-251",
+    "codigo": "SSPK-110-2",
+    "nombre": "Farol solar de piso",
+    "unidadesPorCaja": 24.0,
+    "volumenPorCaja": 0.075705,
+    "precioFOBUnitario": 4.6,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-252",
+    "codigo": "SSPK-110-3",
+    "nombre": "Farol solar de piso",
+    "unidadesPorCaja": 24.0,
+    "volumenPorCaja": 0.06738301499999999,
+    "precioFOBUnitario": 4.9,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-253",
+    "codigo": "F-GL149-2.3-4",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.05,
+    "precioFOBUnitario": 9.7,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-254",
+    "codigo": "SSPK-113",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 27.0,
+    "volumenPorCaja": 0.0905148,
+    "precioFOBUnitario": 6.6,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-255",
+    "codigo": "SSPK-116",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 60.0,
+    "volumenPorCaja": 0.07734100000000001,
+    "precioFOBUnitario": 3.1,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-256",
+    "codigo": "F-GL150-2.3-4",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.05,
+    "precioFOBUnitario": 11.1,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-257",
+    "codigo": "F-GL151-2.3-4",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.057,
+    "precioFOBUnitario": 12.6,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-258",
+    "codigo": "HD2L\n2*60cm",
+    "nombre": "Estanco 60cm (desarmados)",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 2.425,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-259",
+    "codigo": "HD4L\n2*120cm",
+    "nombre": "Estanco 120cm (desarmado)",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 4.425,
+    "precioFOBUnitario": 2.06,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-260",
+    "codigo": "HD236LS\nslim size",
+    "nombre": "Estanco Slim 120cm (desarmado)",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 3.242,
+    "precioFOBUnitario": 1.75,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-261",
+    "codigo": "HD2L\n2*60cm",
+    "nombre": "Estanco 60cm (armado)",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.0552,
+    "precioFOBUnitario": 1.78,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-262",
+    "codigo": "HD4L\n2*120cm",
+    "nombre": "Estanco 120cm (armado)",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.1032,
+    "precioFOBUnitario": 2.59,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-263",
+    "codigo": "HD236LS\nslim size",
+    "nombre": "Estanco Slim 120cm (armado)",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.088236,
+    "precioFOBUnitario": 2.2,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-264",
+    "codigo": "SU-STLA-XQ50-100W",
+    "nombre": "LUMINARIA ALUMBRADO 100W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.0468,
+    "precioFOBUnitario": 6.6550816611465,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-265",
+    "codigo": "SU-STLA-XQ50-150W",
+    "nombre": "LUMINARIA ALUMBRADO 150W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.052000000000000005,
+    "precioFOBUnitario": 8.88898030063694,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-266",
+    "codigo": "SU-STLA-XQ50-200W",
+    "nombre": "LUMINARIA ALUMBRADO 200W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.08249999999999999,
+    "precioFOBUnitario": 11.5728858089172,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-267",
+    "codigo": "SU-COL-24W-white",
+    "nombre": "",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.0672,
+    "precioFOBUnitario": 6.25,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-268",
+    "codigo": "SU-COL-24W-black",
+    "nombre": "",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.0672,
+    "precioFOBUnitario": 6.25,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-269",
+    "codigo": "SU-COL-36W-white",
+    "nombre": "",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.09408,
+    "precioFOBUnitario": 8.25,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-270",
+    "codigo": "SU-COL-36W-black",
+    "nombre": "",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.09408000000000001,
+    "precioFOBUnitario": 8.25,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-271",
+    "codigo": "SU-COL-50W-white",
+    "nombre": "",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.07289999999999999,
+    "precioFOBUnitario": 10.3,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-272",
+    "codigo": "SU-COL-50W-black",
+    "nombre": "",
+    "unidadesPorCaja": 12.0,
+    "volumenPorCaja": 0.0729,
+    "precioFOBUnitario": 10.3,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-276",
+    "codigo": "F-RL211-30W",
+    "nombre": "LUMINARIA CALLE",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.115,
+    "precioFOBUnitario": 4.8,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-277",
+    "codigo": "F-RL211-60W",
+    "nombre": "LUMINARIA CALLE",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.12,
+    "precioFOBUnitario": 5.9,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-278",
+    "codigo": "F-RL211-90W",
+    "nombre": "LUMINARIA CALLE",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.095,
+    "precioFOBUnitario": 7.62,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-279",
+    "codigo": "F-RL211-120W",
+    "nombre": "LUMINARIA CALLE",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.095,
+    "precioFOBUnitario": 9.05,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-280",
+    "codigo": "F-RL215-100W",
+    "nombre": "LUMINARIA CALLE",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.082,
+    "precioFOBUnitario": 8.89,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-281",
+    "codigo": "F-RL215-200W",
+    "nombre": "LUMINARIA CALLE",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.097,
+    "precioFOBUnitario": 10.5,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-282",
+    "codigo": "F-RL215-300W",
+    "nombre": "LUMINARIA CALLE",
+    "unidadesPorCaja": 8.0,
+    "volumenPorCaja": 0.13,
+    "precioFOBUnitario": 15.2,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-283",
+    "codigo": "JBP100W",
+    "nombre": "Reflector led solar con panel - 100W - 6500K",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.10300000000000001,
+    "precioFOBUnitario": 12.1,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-284",
+    "codigo": "JBP200W",
+    "nombre": "Reflector led solar con panel - 200W - 6500K",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.091,
+    "precioFOBUnitario": 20.5,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-285",
+    "codigo": "JBP300W",
+    "nombre": "Reflector led solar con panel - 300W - 6500K",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.091,
+    "precioFOBUnitario": 27.5,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-286",
+    "codigo": "12V-5050-60LED-7w-IP20-RGB",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 1.51,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-287",
+    "codigo": "12V-5050-60LED-7w-IP65-RGB",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 2.82,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-288",
+    "codigo": "12V-2835-60LED-IP20-3000K",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 1.11,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-289",
+    "codigo": "12V-2835-60LED-IP20-6500K",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 1.11,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-290",
+    "codigo": "12V-2835-60LED-IP65-3000K",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 2.43,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-291",
+    "codigo": "12V-2835-60LED-IP65-6500K",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 2.43,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-292",
+    "codigo": "12V-5050-60LED-IP20-3000K",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 1.98,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-293",
+    "codigo": "12V-5050-60LED-IP20-6500K",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 1.98,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-294",
+    "codigo": "12V-5050-60LED-IP65-3000K",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 3.3,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-295",
+    "codigo": "12V-5050-60LED-IP65-6500K",
+    "nombre": "Tira Led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.042159,
+    "precioFOBUnitario": 3.3,
+    "pctDerechos": 18.0
+  },
+  {
+    "id": "row-296",
+    "codigo": "RGBCT-1",
+    "nombre": "Control Tiras led",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.024662,
+    "precioFOBUnitario": 0.68,
+    "pctDerechos": 10.8
+  },
+  {
+    "id": "row-297",
+    "codigo": "CP-220V-LED-G9-\n2835-75D",
+    "nombre": "Bipin 4,5W",
+    "unidadesPorCaja": 1000.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 0.46,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-298",
+    "codigo": "CP-220V-LED-G9-\n2835-88D",
+    "nombre": "Bipin 5,8W",
+    "unidadesPorCaja": 500.0,
+    "volumenPorCaja": 0.028,
+    "precioFOBUnitario": 0.56,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-299",
+    "codigo": "AL1001-6w",
+    "nombre": "Panel slim redondo empotrable",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.06,
+    "precioFOBUnitario": 0.45,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-300",
+    "codigo": "AL1001-12w",
+    "nombre": "Panel slim redondo empotrable",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.047,
+    "precioFOBUnitario": 0.63,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-301",
+    "codigo": "AL1001-18w",
+    "nombre": "Panel slim redondo empotrable",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.058,
+    "precioFOBUnitario": 0.82,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-302",
+    "codigo": "AL1001-24w",
+    "nombre": "Panel slim redondo empotrable",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.063,
+    "precioFOBUnitario": 1.21,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-303",
+    "codigo": "AL1002-6w",
+    "nombre": "Panel slim cuadrado empotrable",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.027,
+    "precioFOBUnitario": 0.49,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-304",
+    "codigo": "AL1002-12w",
+    "nombre": "Panel slim cuadrado empotrable",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 0.67,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-305",
+    "codigo": "AL1002-18w",
+    "nombre": "Panel slim cuadrado empotrable",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.067,
+    "precioFOBUnitario": 0.88,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-306",
+    "codigo": "AL1002-24w",
+    "nombre": "Panel slim cuadrado empotrable",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.063,
+    "precioFOBUnitario": 1.31,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-307",
+    "codigo": "AL1003-6w",
+    "nombre": "Panel plafon circular",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.034,
+    "precioFOBUnitario": 0.51,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-308",
+    "codigo": "AL1003-12w",
+    "nombre": "Panel plafon circular",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.049,
+    "precioFOBUnitario": 0.68,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-309",
+    "codigo": "AL1003-18w",
+    "nombre": "Panel plafon circular",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.067,
+    "precioFOBUnitario": 0.93,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-310",
+    "codigo": "AL1003-24W",
+    "nombre": "Panel plafon circular",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.078,
+    "precioFOBUnitario": 1.33,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-311",
+    "codigo": "AL1004-6w",
+    "nombre": "Panel plafon cuadrado",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.034,
+    "precioFOBUnitario": 0.54,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-312",
+    "codigo": "AL1004-12w",
+    "nombre": "Panel plafon cuadrado",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.049,
+    "precioFOBUnitario": 0.72,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-313",
+    "codigo": "AL1004-18w",
+    "nombre": "Panel plafon cuadrado",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.067,
+    "precioFOBUnitario": 0.96,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-314",
+    "codigo": "AL1004-24w",
+    "nombre": "Panel plafon cuadrado",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.078,
+    "precioFOBUnitario": 1.37,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-315",
+    "codigo": "PL2008",
+    "nombre": "Big Panel Backlit 30W",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.073,
+    "precioFOBUnitario": 2.59,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-318",
+    "codigo": "SSPK-111",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 72.0,
+    "volumenPorCaja": 0.10193624999999999,
+    "precioFOBUnitario": 3.2,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-319",
+    "codigo": "SSPK-112-1",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.08455,
+    "precioFOBUnitario": 4.8,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-320",
+    "codigo": "SSPK-112-2",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.08455,
+    "precioFOBUnitario": 4.8,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-321",
+    "codigo": "SSPK-114-1",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 30.0,
+    "volumenPorCaja": 0.09672000000000001,
+    "precioFOBUnitario": 4.6,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-322",
+    "codigo": "SSPK-114-2",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 36.0,
+    "volumenPorCaja": 0.14691600000000002,
+    "precioFOBUnitario": 4.8,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-323",
+    "codigo": "SSPK-115-RGB",
+    "nombre": "Estaca solar",
+    "unidadesPorCaja": 36.0,
+    "volumenPorCaja": 0.14691600000000002,
+    "precioFOBUnitario": 4.9,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-324",
+    "codigo": "CEL00102-1-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.098,
+    "precioFOBUnitario": 15.0,
+    "pctDerechos": 20.0
+  },
+  {
+    "id": "row-325",
+    "codigo": "CEL00102-2-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.098,
+    "precioFOBUnitario": 14.25,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-326",
+    "codigo": "CEL00102-3-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.098,
+    "precioFOBUnitario": 15.0,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-327",
+    "codigo": "CEL00103-1-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.168402,
+    "precioFOBUnitario": 12.733333333333334,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-328",
+    "codigo": "CEL00103-1-45W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.122915,
+    "precioFOBUnitario": 15.0,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-329",
+    "codigo": "CEL00103-2-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 10.0,
+    "volumenPorCaja": 0.168402,
+    "precioFOBUnitario": 12.733333333333334,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-330",
+    "codigo": "CEL00103-2-45W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.122915,
+    "precioFOBUnitario": 15.0,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-331",
+    "codigo": "CEL00105-1-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.15847,
+    "precioFOBUnitario": 21.93,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-332",
+    "codigo": "CEL00107-1-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.15847,
+    "precioFOBUnitario": 23.84,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-333",
+    "codigo": "CEL00109-1-24W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.16497,
+    "precioFOBUnitario": 21.939999999999998,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-334",
+    "codigo": "CEL00109-1-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.238545,
+    "precioFOBUnitario": 24.5,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-335",
+    "codigo": "CEL00110-1-36W",
+    "nombre": "Plafon redondo techo",
+    "unidadesPorCaja": 5.0,
+    "volumenPorCaja": 0.098,
+    "precioFOBUnitario": 14.533333333333333,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-336",
+    "codigo": "MPL1101",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.174496,
+    "precioFOBUnitario": 9.15,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-337",
+    "codigo": "MPL1102",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.174496,
+    "precioFOBUnitario": 11.71,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-338",
+    "codigo": "MPL1103",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.174496,
+    "precioFOBUnitario": 8.94,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-339",
+    "codigo": "MPL1104",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.174496,
+    "precioFOBUnitario": 11.71,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-340",
+    "codigo": "MPL1105",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.06,
+    "precioFOBUnitario": 35.13,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-341",
+    "codigo": "MPL1106",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.06,
+    "precioFOBUnitario": 38.96,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-342",
+    "codigo": "MPL1107",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.06,
+    "precioFOBUnitario": 34.49,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-343",
+    "codigo": "MPL1108",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.06,
+    "precioFOBUnitario": 38.32,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-344",
+    "codigo": "MPL1109",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.15015,
+    "precioFOBUnitario": 7.45,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-345",
+    "codigo": "MPL1110",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.15015,
+    "precioFOBUnitario": 8.3,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-346",
+    "codigo": "MPL1111",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.15015,
+    "precioFOBUnitario": 6.81,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-347",
+    "codigo": "MPL1112",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.15015,
+    "precioFOBUnitario": 7.66,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-348",
+    "codigo": "MPL1113",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.07225,
+    "precioFOBUnitario": 24.49,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-349",
+    "codigo": "MPL1114",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.07225,
+    "precioFOBUnitario": 26.62,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-350",
+    "codigo": "MPL1115",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.07225,
+    "precioFOBUnitario": 18.09,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-351",
+    "codigo": "MPL1116",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.07225,
+    "precioFOBUnitario": 20.22,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-352",
+    "codigo": "MPL1117",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.027735,
+    "precioFOBUnitario": 28.75,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-353",
+    "codigo": "MPL1118",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.027735,
+    "precioFOBUnitario": 31.5,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-354",
+    "codigo": "MPL1119",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.027735,
+    "precioFOBUnitario": 30.24,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-355",
+    "codigo": "MPL1120",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.027735,
+    "precioFOBUnitario": 32.35,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-356",
+    "codigo": "MPL1121",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0405,
+    "precioFOBUnitario": 16.6,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-357",
+    "codigo": "MPL1122",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0405,
+    "precioFOBUnitario": 15.34,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-358",
+    "codigo": "MPL1123",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0324,
+    "precioFOBUnitario": 23.0,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-359",
+    "codigo": "MPL1124",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0324,
+    "precioFOBUnitario": 20.43,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-360",
+    "codigo": "MPL1125",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.126,
+    "precioFOBUnitario": 38.32,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-361",
+    "codigo": "MPL1126",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.126,
+    "precioFOBUnitario": 42.16,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-362",
+    "codigo": "MPL1127",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.126,
+    "precioFOBUnitario": 37.9,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-363",
+    "codigo": "MPL1128",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.126,
+    "precioFOBUnitario": 41.73,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-364",
+    "codigo": "MPL1129",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.021,
+    "precioFOBUnitario": 16.6,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-365",
+    "codigo": "MPL1130",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.021,
+    "precioFOBUnitario": 19.17,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-366",
+    "codigo": "MPL1131",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.021,
+    "precioFOBUnitario": 16.6,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-367",
+    "codigo": "MPL1132",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.021,
+    "precioFOBUnitario": 19.17,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-368",
+    "codigo": "MPL1133",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.018375,
+    "precioFOBUnitario": 11.07,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-369",
+    "codigo": "MPL1134",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.018375,
+    "precioFOBUnitario": 12.35,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-370",
+    "codigo": "MPL1135",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.041472,
+    "precioFOBUnitario": 17.45,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-371",
+    "codigo": "MPL1136",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.041472,
+    "precioFOBUnitario": 19.58,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-372",
+    "codigo": "MPL1137",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.041472,
+    "precioFOBUnitario": 14.26,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-373",
+    "codigo": "MPL1138",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.041472,
+    "precioFOBUnitario": 15.96,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-374",
+    "codigo": "MPL1139",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.06125,
+    "precioFOBUnitario": 21.71,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-375",
+    "codigo": "MPL1140",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.06125,
+    "precioFOBUnitario": 24.49,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-376",
+    "codigo": "MPL1141",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.09,
+    "precioFOBUnitario": 17.45,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-377",
+    "codigo": "MPL1142",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.09,
+    "precioFOBUnitario": 19.58,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-378",
+    "codigo": "MPL1143",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.03456,
+    "precioFOBUnitario": 17.45,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-379",
+    "codigo": "MPL1144",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.03456,
+    "precioFOBUnitario": 19.58,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-380",
+    "codigo": "MPL1145",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0525,
+    "precioFOBUnitario": 34.49,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-381",
+    "codigo": "MPL1146",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0525,
+    "precioFOBUnitario": 37.26,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-382",
+    "codigo": "MPL1147",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.031212,
+    "precioFOBUnitario": 24.49,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-383",
+    "codigo": "MPL1148",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.031212,
+    "precioFOBUnitario": 26.62,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-384",
+    "codigo": "MPL1149",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0075,
+    "precioFOBUnitario": 16.6,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-385",
+    "codigo": "MPL1150",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0075,
+    "precioFOBUnitario": 19.17,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-386",
+    "codigo": "MPL1151",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.00032768,
+    "precioFOBUnitario": 34.49,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-387",
+    "codigo": "MPL1152",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.00032768,
+    "precioFOBUnitario": 36.62,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-388",
+    "codigo": "MPL1153",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.051968,
+    "precioFOBUnitario": 31.94,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-389",
+    "codigo": "MPL1154",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.051968,
+    "precioFOBUnitario": 31.94,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-390",
+    "codigo": "MPL1155",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0435,
+    "precioFOBUnitario": 31.94,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-391",
+    "codigo": "MPL1156",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0435,
+    "precioFOBUnitario": 31.94,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-392",
+    "codigo": "MPL1157",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0693,
+    "precioFOBUnitario": 30.86,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-393",
+    "codigo": "MPL1158",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0693,
+    "precioFOBUnitario": 30.86,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-394",
+    "codigo": "MPL1159",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0189,
+    "precioFOBUnitario": 28.75,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-395",
+    "codigo": "MPL1160",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0189,
+    "precioFOBUnitario": 30.86,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-396",
+    "codigo": "MPL1161",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.0189,
+    "precioFOBUnitario": 30.86,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-397",
+    "codigo": "MPL1162",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 54.16,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-398",
+    "codigo": "MPL1163",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 10.64,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-399",
+    "codigo": "MPL1164",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 14.0,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-400",
+    "codigo": "MPL1165",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 12.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-401",
+    "codigo": "MPL1166",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 8.97,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-402",
+    "codigo": "MPL1167",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 19.05,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-403",
+    "codigo": "MPL1168",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 23.35,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-404",
+    "codigo": "MPL1169",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 8.97,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-405",
+    "codigo": "MPL1170",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 19.61,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-406",
+    "codigo": "MPL1171",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 11.39,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-407",
+    "codigo": "MPL1172",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 30.81,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-408",
+    "codigo": "MPL1173",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 29.88,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-409",
+    "codigo": "MPL1174",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 30.81,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-410",
+    "codigo": "MPL1175",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 35.48,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-411",
+    "codigo": "MPL1176",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 33.61,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-412",
+    "codigo": "MPL1177",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 35.85,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-413",
+    "codigo": "MPL1178",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 33.43,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-414",
+    "codigo": "MPL1179",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 27.63,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-415",
+    "codigo": "MPL1180",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 31.37,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-416",
+    "codigo": "MPL1181",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 27.07,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-417",
+    "codigo": "MPL1182",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 36.43,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-418",
+    "codigo": "MPL1183",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 25.22,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-419",
+    "codigo": "MPL1184",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 21.47,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-420",
+    "codigo": "MPL1185",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 14.94,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-421",
+    "codigo": "MPL1186",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 16.82,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-422",
+    "codigo": "MPL1187",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 20.91,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-423",
+    "codigo": "MPL1188",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 50.06,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-424",
+    "codigo": "MPL1189",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 17.18,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-425",
+    "codigo": "MPL1190",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 21.47,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-426",
+    "codigo": "MPL1191",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 45.75,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-427",
+    "codigo": "MPL1192",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 36.43,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-428",
+    "codigo": "MPL1193",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 31.37,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-429",
+    "codigo": "MPL1194",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 32.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-430",
+    "codigo": "MPL1195",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 33.61,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-431",
+    "codigo": "MPL1196",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 30.81,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-432",
+    "codigo": "MPL1197",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 26.53,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-433",
+    "codigo": "MPL1198",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 28.02,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-434",
+    "codigo": "MPL1199",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 24.28,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-435",
+    "codigo": "MPL1200",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 41.08,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-436",
+    "codigo": "MPL1201",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 48.19,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-437",
+    "codigo": "MPL1202",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 25.77,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-438",
+    "codigo": "MPL1203",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 43.89,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-439",
+    "codigo": "MPL1204",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 42.96,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-440",
+    "codigo": "MPL1205",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 40.15,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-441",
+    "codigo": "MPL1206",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 51.91,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-442",
+    "codigo": "MPL1207",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 47.06,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-443",
+    "codigo": "MPL1208",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 48.55,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-444",
+    "codigo": "MPL1209",
+    "nombre": "",
+    "unidadesPorCaja": 1.0,
+    "volumenPorCaja": 0.04,
+    "precioFOBUnitario": 31.76,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-445",
+    "codigo": "PL-VIN-E27-DIM",
+    "nombre": "Palace lamp",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.07113925,
+    "precioFOBUnitario": 4.013698630136987,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-446",
+    "codigo": "PL-VIN-E27-TM",
+    "nombre": "Palace lamp",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.07113925,
+    "precioFOBUnitario": 4.013698630136987,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-447",
+    "codigo": "PL-VIN-E27-BM",
+    "nombre": "Palace lamp",
+    "unidadesPorCaja": 6.0,
+    "volumenPorCaja": 0.08754375,
+    "precioFOBUnitario": 4.178082191780822,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-448",
+    "codigo": "AG-801",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0405,
+    "precioFOBUnitario": 0.42953020134228187,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-449",
+    "codigo": "AG-802",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0405,
+    "precioFOBUnitario": 0.7651006711409396,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-450",
+    "codigo": "AG-804",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.057,
+    "precioFOBUnitario": 0.8053691275167785,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-451",
+    "codigo": "AG-902",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0405,
+    "precioFOBUnitario": 0.7919463087248323,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-452",
+    "codigo": "AG-824",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.0345,
+    "precioFOBUnitario": 1.006711409395973,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-453",
+    "codigo": "AG-827",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.02625,
+    "precioFOBUnitario": 1.1,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-454",
+    "codigo": "AG-828",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.0273125,
+    "precioFOBUnitario": 1.1,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-455",
+    "codigo": "AG-9014",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.0433125,
+    "precioFOBUnitario": 1.1,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-456",
+    "codigo": "AG-6601",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.035625,
+    "precioFOBUnitario": 1.25,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-457",
+    "codigo": "AG-6605",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05415,
+    "precioFOBUnitario": 1.34,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-458",
+    "codigo": "SY002",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.26,
+    "precioFOBUnitario": 0.64,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-459",
+    "codigo": "SY001",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.26,
+    "precioFOBUnitario": 0.9,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-460",
+    "codigo": "SY003",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.26,
+    "precioFOBUnitario": 0.97,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-461",
+    "codigo": "SY8833",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.33,
+    "precioFOBUnitario": 1.05,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-462",
+    "codigo": "SY5510",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.053,
+    "precioFOBUnitario": 1.57,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-463",
+    "codigo": "SY8804",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.053,
+    "precioFOBUnitario": 1.05,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-464",
+    "codigo": "SY8805",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.053,
+    "precioFOBUnitario": 1.1199999999999999,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-465",
+    "codigo": "SY8834",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.06,
+    "precioFOBUnitario": 1.270149253731343,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-466",
+    "codigo": "SY8834A",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.06,
+    "precioFOBUnitario": 1.05,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-467",
+    "codigo": "SY8848",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.06,
+    "precioFOBUnitario": 1.6400000000000001,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-468",
+    "codigo": "SY7707 C",
+    "nombre": "SPOTLIGHT FIXTURE",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.039605,
+    "precioFOBUnitario": 2.61,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-469",
+    "codigo": "AL4001",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.04140575,
+    "precioFOBUnitario": 0.42,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-470",
+    "codigo": "AL4002",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.04140575,
+    "precioFOBUnitario": 0.42,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-471",
+    "codigo": "AL4003",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.036905125,
+    "precioFOBUnitario": 0.45,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-472",
+    "codigo": "AL4003-B",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.04140575,
+    "precioFOBUnitario": 0.47,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-473",
+    "codigo": "AL4003-C",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.04140575,
+    "precioFOBUnitario": 0.47,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-474",
+    "codigo": "AL4004",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489325,
+    "precioFOBUnitario": 0.53,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-475",
+    "codigo": "AL4005",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489171,
+    "precioFOBUnitario": 0.53,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-476",
+    "codigo": "AL4006",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.084942,
+    "precioFOBUnitario": 1.08,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-477",
+    "codigo": "AL4007",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05236875,
+    "precioFOBUnitario": 1.54,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-478",
+    "codigo": "AL4046",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.06500375,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-479",
+    "codigo": "AL4047",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.07595175,
+    "precioFOBUnitario": 0.75,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-480",
+    "codigo": "AL4048",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.07263055,
+    "precioFOBUnitario": 1.54,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-481",
+    "codigo": "AL4049",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.0896259,
+    "precioFOBUnitario": 2.31,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-482",
+    "codigo": "AL4008",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.036905125,
+    "precioFOBUnitario": 0.4,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-483",
+    "codigo": "AL4009",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489325,
+    "precioFOBUnitario": 0.48,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-484",
+    "codigo": "AL4010",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489171,
+    "precioFOBUnitario": 0.48,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-485",
+    "codigo": "AL4011",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.084942,
+    "precioFOBUnitario": 1.0,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-486",
+    "codigo": "AL4012",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05236875,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-487",
+    "codigo": "AL4013",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.036905125,
+    "precioFOBUnitario": 0.4,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-488",
+    "codigo": "AL4014",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489325,
+    "precioFOBUnitario": 0.48,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-489",
+    "codigo": "AL4015",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489171,
+    "precioFOBUnitario": 0.48,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-490",
+    "codigo": "AL4016",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.084942,
+    "precioFOBUnitario": 1.0,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-491",
+    "codigo": "AL4017",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05236875,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-492",
+    "codigo": "AL4018",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.036905125,
+    "precioFOBUnitario": 0.48,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-493",
+    "codigo": "AL4019",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0743408,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-494",
+    "codigo": "AL4020",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0743408,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-495",
+    "codigo": "AL4022",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0743408,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-496",
+    "codigo": "AL4023",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0743408,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-497",
+    "codigo": "AL4024",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05909625,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-498",
+    "codigo": "AL4025",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05909625,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-499",
+    "codigo": "AL4026",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05909625,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-500",
+    "codigo": "AL4050",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.045188,
+    "precioFOBUnitario": 2.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-501",
+    "codigo": "AL4051",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.045188,
+    "precioFOBUnitario": 2.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-502",
+    "codigo": "AL4052",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.045188,
+    "precioFOBUnitario": 2.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-503",
+    "codigo": "AL4027",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05909625,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-504",
+    "codigo": "AL4028",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05909625,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-505",
+    "codigo": "AL4029",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05909625,
+    "precioFOBUnitario": 1.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-506",
+    "codigo": "AL4053",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.045188,
+    "precioFOBUnitario": 2.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-507",
+    "codigo": "AL4054",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.045188,
+    "precioFOBUnitario": 2.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-508",
+    "codigo": "AL4055",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 20.0,
+    "volumenPorCaja": 0.045188,
+    "precioFOBUnitario": 2.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-509",
+    "codigo": "AL4030",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-510",
+    "codigo": "AL4031",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-511",
+    "codigo": "AL4032-A",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-512",
+    "codigo": "AL4032-B",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-513",
+    "codigo": "AL4032-C",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-514",
+    "codigo": "AL4032-D",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-515",
+    "codigo": "AL4032-E",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-516",
+    "codigo": "AL4033",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.036905125,
+    "precioFOBUnitario": 0.4,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-517",
+    "codigo": "AL4034",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.036905125,
+    "precioFOBUnitario": 0.46,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-518",
+    "codigo": "AL4035",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489325,
+    "precioFOBUnitario": 0.54,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-519",
+    "codigo": "AL4036",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489171,
+    "precioFOBUnitario": 0.54,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-520",
+    "codigo": "AL4037",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.084942,
+    "precioFOBUnitario": 1.12,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-521",
+    "codigo": "AL4038",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05236875,
+    "precioFOBUnitario": 1.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-522",
+    "codigo": "AL4039",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.039027625,
+    "precioFOBUnitario": 0.4,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-523",
+    "codigo": "AL4040",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.039027625,
+    "precioFOBUnitario": 0.38,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-524",
+    "codigo": "AL4041",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-525",
+    "codigo": "AL4042",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-526",
+    "codigo": "AL4043",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047709,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-527",
+    "codigo": "AL4044",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-528",
+    "codigo": "AL4045",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.92,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-529",
+    "codigo": "AL4056-1",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.036905125,
+    "precioFOBUnitario": 0.65,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-530",
+    "codigo": "AL4056-2",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489325,
+    "precioFOBUnitario": 0.73,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-531",
+    "codigo": "AL4057-1",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.047724,
+    "precioFOBUnitario": 0.73,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-532",
+    "codigo": "AL4057-2",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.083853,
+    "precioFOBUnitario": 1.25,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-533",
+    "codigo": "AL4057-3",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.05236875,
+    "precioFOBUnitario": 2.11,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-534",
+    "codigo": "AL4058",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.0489325,
+    "precioFOBUnitario": 0.69,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-535",
+    "codigo": "AL4059",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.77,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-536",
+    "codigo": "AL4066",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.85,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-537",
+    "codigo": "AL4067",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.85,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-538",
+    "codigo": "AL4060",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.77,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-539",
+    "codigo": "AL4061",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.77,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-540",
+    "codigo": "AL4062",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 100.0,
+    "volumenPorCaja": 0.062568,
+    "precioFOBUnitario": 0.77,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-541",
+    "codigo": "AL4063",
+    "nombre": "AR111",
+    "unidadesPorCaja": 40.0,
+    "volumenPorCaja": 0.0013107829999999998,
+    "precioFOBUnitario": 1.05,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-542",
+    "codigo": "TL4063-1",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.033146999999999996,
+    "precioFOBUnitario": 1.54,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-543",
+    "codigo": "TL4063-2",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.04112925,
+    "precioFOBUnitario": 1.62,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-544",
+    "codigo": "TL4064-1",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.050625,
+    "precioFOBUnitario": 1.54,
+    "pctDerechos": 30.0
+  },
+  {
+    "id": "row-545",
+    "codigo": "TL4064-2",
+    "nombre": "GU10/MR16",
+    "unidadesPorCaja": 50.0,
+    "volumenPorCaja": 0.062775,
+    "precioFOBUnitario": 1.62,
+    "pctDerechos": 30.0
+  }
+]

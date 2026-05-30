@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+*.local
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+coverage/
+
+# Archivos temporales de Excel (lock)
+~$*.xlsx
