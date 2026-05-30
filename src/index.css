@@ -1117,3 +1117,93 @@ body {
   .field-group { grid-template-columns: 1fr; }
   .kpi-value { font-size: 1.3rem; }
 }
+
+/* =====================================================
+   Pantalla de acceso (solo desarrollo local)
+   ===================================================== */
+.auth-gate {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, var(--color-bg) 0%, #e2e8f0 100%);
+}
+
+.auth-gate-card {
+  width: 100%;
+  max-width: 420px;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+}
+
+.auth-gate-header {
+  background: linear-gradient(135deg, var(--color-navy-dark), var(--color-navy));
+  color: #fff;
+  padding: 1.75rem 1.5rem;
+  text-align: center;
+}
+
+.auth-gate-header h2 {
+  font-size: 1.25rem;
+  margin-top: .5rem;
+}
+
+.auth-gate-header p {
+  font-size: .875rem;
+  opacity: .85;
+  margin-top: .35rem;
+}
+
+.auth-gate-form {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+
+.auth-gate-form label {
+  font-size: .875rem;
+  font-weight: 600;
+}
+
+.auth-gate-form input {
+  padding: .75rem 1rem;
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+.auth-gate-form input:focus {
+  outline: none;
+  border-color: var(--color-border-focus);
+  box-shadow: 0 0 0 3px rgba(59,130,246,.15);
+}
+
+.auth-gate-form button {
+  margin-top: .5rem;
+  padding: .8rem 1rem;
+  background: var(--color-blue);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.auth-gate-form button:hover { background: #1d4ed8; }
+.auth-gate-form button:disabled { opacity: .6; cursor: not-allowed; }
+
+.auth-gate-error {
+  margin-top: .5rem;
+  padding: .75rem 1rem;
+  background: var(--color-red-light);
+  color: var(--color-red);
+  border-radius: var(--radius-sm);
+  font-size: .875rem;
+}

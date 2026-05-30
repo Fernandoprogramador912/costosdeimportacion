@@ -11,6 +11,23 @@ npm run dev
 
 Abre **http://localhost:5173** en el navegador.
 
+### Contraseña de acceso
+
+El sitio en producción está protegido con contraseña (sin usuario). La clave **no va en el código** — se configura en Vercel.
+
+En **Vercel → Settings → Environment Variables**, agregá:
+
+| Variable | Valor |
+|----------|-------|
+| `SITE_PASSWORD` | Tu contraseña de acceso |
+| `AUTH_SECRET` | Una clave aleatoria larga (ej. 32+ caracteres) |
+
+Para desarrollo local, creá `.env.local` (no se sube a Git):
+
+```
+VITE_SITE_PASSWORD=tu-contraseña
+```
+
 ## Scripts disponibles
 
 | Script | Descripción |

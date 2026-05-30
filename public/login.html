@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Acceso — Costos de Importación</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --navy-dark: #152d4a;
+      --navy: #1e3a5f;
+      --blue: #2563eb;
+      --text: #1e293b;
+      --text-secondary: #64748b;
+      --border: #e2e8f0;
+      --red-light: #fee2e2;
+      --red: #dc2626;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      background: linear-gradient(135deg, #f0f4f8 0%, #e2e8f0 100%);
+    }
+
+    .card {
+      width: 100%;
+      max-width: 420px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,.12);
+      overflow: hidden;
+    }
+
+    .card-header {
+      background: linear-gradient(135deg, var(--navy-dark), var(--navy));
+      color: #fff;
+      padding: 1.75rem 1.5rem;
+      text-align: center;
+    }
+
+    .card-header h1 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-top: .5rem;
+    }
+
+    .card-header p {
+      font-size: .875rem;
+      opacity: .85;
+      margin-top: .35rem;
+    }
+
+    .card-body { padding: 1.5rem; }
+
+    label {
+      display: block;
+      font-size: .875rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: .5rem;
+    }
+
+    input[type="password"] {
+      width: 100%;
+      padding: .75rem 1rem;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: 1rem;
+      font-family: inherit;
+      transition: border-color .15s;
+    }
+
+    input[type="password"]:focus {
+      outline: none;
+      border-color: var(--blue);
+      box-shadow: 0 0 0 3px rgba(37,99,235,.15);
+    }
+
+    button {
+      width: 100%;
+      margin-top: 1rem;
+      padding: .8rem 1rem;
+      background: var(--blue);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background .15s, opacity .15s;
+    }
+
+    button:hover { background: #1d4ed8; }
+    button:disabled { opacity: .6; cursor: not-allowed; }
+
+    .error {
+      display: none;
+      margin-top: 1rem;
+      padding: .75rem 1rem;
+      background: var(--red-light);
+      color: var(--red);
+      border-radius: 8px;
+      font-size: .875rem;
+    }
+
+    .error.visible { display: block; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="card-header">
+      <div>🔒</div>
+      <h1>Costos de Importación</h1>
+      <p>Ingresá la contraseña para acceder</p>
+    </div>
+    <div class="card-body">
+      <form id="login-form">
+        <label for="password">Contraseña</label>
+        <input
+          id="password"
+          name="password"
+          type="password"
+          autocomplete="current-password"
+          required
+          autofocus
+        />
+        <button type="submit" id="submit-btn">Ingresar</button>
+        <div id="error" class="error" role="alert"></div>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    const form = document.getElementById('login-form')
+    const passwordInput = document.getElementById('password')
+    const submitBtn = document.getElementById('submit-btn')
+    const errorEl = document.getElementById('error')
+
+    const params = new URLSearchParams(window.location.search)
+    const redirectTo = params.get('from') || '/'
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault()
+      errorEl.classList.remove('visible')
+      submitBtn.disabled = true
+      submitBtn.textContent = 'Verificando…'
+
+      try {
+        const res = await fetch('/api/login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ password: passwordInput.value }),
+          credentials: 'same-origin',
+        })
+
+        if (res.ok) {
+          window.location.href = redirectTo
+          return
+        }
+
+        const data = await res.json().catch(() => ({}))
+        errorEl.textContent = data.error || 'Contraseña incorrecta'
+        errorEl.classList.add('visible')
+        passwordInput.select()
+      } catch {
+        errorEl.textContent = 'No se pudo conectar. Intentá de nuevo.'
+        errorEl.classList.add('visible')
+      } finally {
+        submitBtn.disabled = false
+        submitBtn.textContent = 'Ingresar'
+      }
+    })
+  </script>
+</body>
+</html>
